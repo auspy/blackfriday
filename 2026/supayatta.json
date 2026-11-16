@@ -1,0 +1,15 @@
+{
+  "name": "SupaYatta",
+  "url": "https://supayatta.com",
+  "description": "Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "65% off lifetime with code YATTADEAL",
+  "code": "YATTADEAL",
+  "pricing": "lifetime",
+  "price": { "regular": 19.99, "sale": 6.99, "currency": "USD" },
+  "discount": 65,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-07",
+  "icon": "https://supayatta.com/icon.png"
+}
