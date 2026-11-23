@@ -1,0 +1,14 @@
+{
+  "name": "Supacite",
+  "url": "https://supacite.com",
+  "description": "Guaranteed more Google traffic in 90 days or you don't pay full price, proven on our own app (1,300 to 25,400 visitors/month, 3.9x revenue in 4 months)",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "33% off done-for-you SEO, $199 for 3 months + success fee only if we hit your target",
+  "pricing": "one-time",
+  "price": { "regular": 299, "sale": 199, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-07",
+  "icon": "https://supacite.com/apple-touch-icon.png"
+}
